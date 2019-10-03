@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="excel:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="excel-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="excel:war exploded" />
+    </root>
+  </artifact>
+</component>
